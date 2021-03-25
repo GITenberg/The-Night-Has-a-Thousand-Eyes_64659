@@ -1,5 +1,8 @@
 _repo: The-Night-Has-a-Thousand-Eyes_64659
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64659-h/images/cover.jpg
 creator:
   authors:
   - agent_name: De Courcy, Dorothy
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '33743'
     url: http://www.gutenberg.org/2009/agents/33743
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64659#The-Night-Has-a-Thousand-Eyes
 gutenberg_issued: '2021-02-28'
 gutenberg_type: Text
 identifiers:
